@@ -1,0 +1,28 @@
+name: dermatocare
+favicon: null
+layout_spectrum: 0.9432092329952866
+typography_spectrum: 0.2600401646923274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5106958374381065
+  lightness: 0.6527192986104637
+  saturation: 0.501096504740417
+  rhythmicContrast: 0.7128059591632336
+purpose: []
