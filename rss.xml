@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[dermatocare]]></title>
         <description><![CDATA[dermatocare]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dermatocare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 14:07:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 14:09:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dermatocare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Discover The Happiness That Lies Within You (Stay Happy With Dermatocare)]]></title>
             <description><![CDATA[<article><h1>Discover The Happiness That Lies Within You (Stay Happy With Dermatocare)</h1><p>Written By</p></article>]]></description>
-            <link>undefineddiscover-the-happiness-that-lies-within-you-stay-happy-wit/index.html</link>
+            <link>https://thegrid.ai/dermatocare/discover-the-happiness-that-lies-within-you-stay-happy-wit/index.html</link>
             <guid isPermaLink="false">e9e9eb2a-d110-4cfc-a779-640c3298c330</guid>
-            <pubDate>Tue, 19 Apr 2016 14:07:51 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 14:09:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
