@@ -1,7 +1,7 @@
 name: dermatocare
 favicon: null
 layout_spectrum: 0.99916
-typography_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
