@@ -1,7 +1,7 @@
 name: dermatocare
 favicon: null
-layout_spectrum: 0.9432092329952866
-typography_spectrum: 0.2600401646923274
+layout_spectrum: 0.00251
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.5106958374381065
-  lightness: 0.6527192986104637
+  lightness: 0.625
   saturation: 0.501096504740417
-  rhythmicContrast: 0.7128059591632336
+  rhythmicContrast: 0.5
 purpose: []
